@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ftc</string>
+    <string name="hint">Введите BIN банковской карты</string>
+    <string name="button">Отправить запрос</string>
+    <string name="invalid">Введите корректный BIN</string>
+    <string name="waiting">Ожидайте...</string>
+</resources>
